@@ -1,0 +1,8 @@
+**/.idea
+**/logs
+**/reports
+**/archives
+
+.DS_Store
+/cases/pai_job_table.csv
+/cases/pai_task_table.csv
